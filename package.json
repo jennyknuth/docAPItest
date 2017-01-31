@@ -4,7 +4,7 @@
   "description": "This is test API documentation.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d _book",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
